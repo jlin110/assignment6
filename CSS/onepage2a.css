@@ -53,7 +53,7 @@ font-weight:300;
   background-color: red;
 }
 .slideshow{
-  margin-top: 3px;
+  margin: 3px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -61,6 +61,7 @@ font-weight:300;
 }
 .cycle-slideshow img{
   margin-top: 5%;
+  margin-bottom: 1%;
   height: 350px;
   box-shadow: 12px 8px 8px olive;
 }
