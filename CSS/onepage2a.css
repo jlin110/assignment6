@@ -57,7 +57,7 @@ font-weight:300;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center;
 }
 .cycle-slideshow img{
   margin-top: 5%;
